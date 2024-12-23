@@ -1,0 +1,2 @@
+For this lab, we both wanted to get acquainted with Python so we each solved the tasks and then combined our code. 
+We discussed the outputs and interpretations together and chose those that resonated well with us.
